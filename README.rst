@@ -27,6 +27,7 @@ The tool generates txt2img.png in current working directory.
 Only the first 1000 lines are used.
 For each line. the first 200 characters are used.
 
+.. image:: https://user-images.githubusercontent.com/5894641/75097780-fbe83580-55f1-11ea-865d-e7adadba259d.png
 
 Help
 ---------------
@@ -47,6 +48,8 @@ Example
 ::
 
   $ txt2img -w100 -h 200 -k RGB,PNG lib/txt2img.rb
+  
+.. image:: https://user-images.githubusercontent.com/5894641/75097839-87fa5d00-55f2-11ea-97ca-1912bb96ac93.png
 
 
 ==========
