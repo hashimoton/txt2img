@@ -47,10 +47,11 @@ Example
 
 ::
 
-  $ txt2img -w100 -h 200 -k RGB,PNG lib/txt2img.rb
+  $ txt2img -w 100 -h 200 -k RGB,PNG lib/txt2img.rb
   
 .. image:: https://user-images.githubusercontent.com/5894641/75097839-87fa5d00-55f2-11ea-97ca-1912bb96ac93.png
 
+Keywords RGB and PNG are highlighted with different colors.
 
 ==========
 Setup
@@ -74,7 +75,7 @@ Install
 
 2. Extract the archive to your convenient directory.
 
-2. Add txt2img/bin to your PATH
+3. Add txt2img/bin to your PATH
 
 
 
